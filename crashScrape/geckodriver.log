@@ -415,3 +415,61 @@ JavaScript warning: https://roobet.com/vendors.f9476e7c492c88358ed7.bundle.js, l
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1597005926377	Marionette	INFO	Stopped listening on port 50376
+1597007792489	geckodriver	INFO	Listening on 127.0.0.1:50658
+1597007793507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/cx/trrz9mdd5tn4r0kk37p38pj80000gn/T/rust_mozprofileJIyHwC"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597007797197	Marionette	INFO	Listening on port 50669
+1597007797332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://roobet.com/app.c6a0f5e771cd766177b8.bundle.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/app.c6a0f5e771cd766177b8.bundle.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/app.c6a0f5e771cd766177b8.bundle.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/app.c6a0f5e771cd766177b8.bundle.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/vendors.f9476e7c492c88358ed7.bundle.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/vendors.f9476e7c492c88358ed7.bundle.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/vendors.f9476e7c492c88358ed7.bundle.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/vendors.f9476e7c492c88358ed7.bundle.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597007801651	Marionette	INFO	Stopped listening on port 50669
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597007866527	geckodriver	INFO	Listening on 127.0.0.1:50781
+1597007867541	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/cx/trrz9mdd5tn4r0kk37p38pj80000gn/T/rust_mozprofileSlTVWT"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597007871243	Marionette	INFO	Listening on port 50792
+1597007871344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://roobet.com/app.c6a0f5e771cd766177b8.bundle.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/app.c6a0f5e771cd766177b8.bundle.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/app.c6a0f5e771cd766177b8.bundle.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/app.c6a0f5e771cd766177b8.bundle.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/vendors.f9476e7c492c88358ed7.bundle.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/vendors.f9476e7c492c88358ed7.bundle.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/vendors.f9476e7c492c88358ed7.bundle.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://roobet.com/vendors.f9476e7c492c88358ed7.bundle.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597007882203	Marionette	INFO	Stopped listening on port 50792
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
