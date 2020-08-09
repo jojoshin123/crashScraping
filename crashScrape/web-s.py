@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup as soup
 import pandas as pd
 
 from urllib.request import Request, urlopen as uReq
+import requests 
 
 req = Request('https://roobet.com/crash', headers={'User-Agent': 'Mozilla/5.0'})
 
@@ -11,13 +12,21 @@ webpage = uReq(req)
 page_html = webpage.read()
 
 #html parsing
-page_soup = soup(page_html,"html.parser")
+page_soup = soup(page_html,'html.parser')
 
 
 
+#set webdriver path
+driver = webdriver.Chrome("/usr/local/bin/geckodriver")
+
+#get url data
+driver.get("https://roobet.com/crash")
+
+driver.find_element_by_class_name('jss108')
+
+js= Document.getElementsByClassName()
 
 
-# driver = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver")
 # products=[] #List to store name of the product
 # prices=[] #List to store price of the product
 # ratings=[] #List to store rating of the product
