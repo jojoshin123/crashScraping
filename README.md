@@ -11,6 +11,6 @@ Python output to a file and read it from the Java parser.
 
 # Usage
 You can download the source code and simply run 
-``` javac mainClass.java ```
+``` javac mainClass.java ``` and 
 ``` java mainClass.java ```
 and look at the output.txt for the crash data.
